@@ -3,8 +3,8 @@
     {
       "id": 1,
       "name": {
-        "firstname": "John",
-        "lastname": "Doe"
+        "firstname": "Sean",
+        "lastname": "Young"
       },
       "location": {
         "street": {
@@ -23,6 +23,56 @@
       "contacts": {
         "email": "john.doe@email.com",
         "phone": "+450123232342"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "firstname": "Jane",
+        "lastname": "Ryder"
+      },
+      "location": {
+        "street": {
+          "number": 6239,
+          "name": "Forest Ln"
+        },
+        "city": "Burbank",
+        "state": "South Carolina",
+        "country": "United States",
+        "postcode": 89429,
+        "coordinates": {
+          "latitude": "85.8666",
+          "longitude": "-140.3760"
+        }
+      },
+      "contacts": {
+        "email": "jane.ryder@email.com",
+        "phone": "+9621458741"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "firstname": "Ruby",
+        "lastname": "Woods"
+      },
+      "location": {
+        "street": {
+          "number": 8694,
+          "name": "W Gray St"
+        },
+        "city": "Santa Clarita",
+        "state": "Ohio",
+        "country": "United States",
+        "postcode": 25706,
+        "coordinates": {
+          "latitude": "39.1772",
+          "longitude": "-25.8106"
+        }
+      },
+      "contacts": {
+        "email": "ruby.woods@email.com",
+        "phone": "+785214569"
       }
     }
   ]
