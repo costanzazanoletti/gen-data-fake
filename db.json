@@ -1,16 +1,29 @@
 {
   "users": [
     {
-      "firstname": "John",
-      "lastname": "Doe"
-    },
-    {
-      "firstname": "Scott",
-      "lastname": "Tiger"
-    },
-    {
-      "firstname": "Jane",
-      "lastname": "Smith"
+      "id": 1,
+      "name": {
+        "firstname": "John",
+        "lastname": "Doe"
+      },
+      "location": {
+        "street": {
+          "number": 8418,
+          "name": "Eason Rd"
+        },
+        "city": "Bernalillo",
+        "state": "Nebraska",
+        "country": "United States",
+        "postcode": 51877,
+        "coordinates": {
+          "latitude": "-62.3555",
+          "longitude": "-82.6123"
+        }
+      },
+      "contacts": {
+        "email": "john.doe@email.com",
+        "phone": "+450123232342"
+      }
     }
   ]
 }
