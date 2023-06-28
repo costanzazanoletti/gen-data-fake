@@ -1,5 +1,5 @@
 {
-  "results": [
+  "users": [
     {
       "gender": "female",
       "name": {
@@ -280,11 +280,5 @@
       },
       "nat": "US"
     }
-  ],
-  "info": {
-    "seed": "93a1546b4965ec1b",
-    "results": 5,
-    "page": 1,
-    "version": "1.4"
-  }
+  ]
 }
